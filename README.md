@@ -51,7 +51,7 @@ Exemplo de passos:
 ---
 
 ## Como reproduzir
-1. Baixe o arquivo `topologia/LAB-VLANS-pfSense.unl` e importe no **PNETLab**  
+1. Baixe o arquivo `topologia/Lab.zip` e importe no **PNETLab**  
 2. Confira os prints em `prints/` para referência visual de como configurar no pfSense
 3. Consulte os comandos e configurações na pasta `configs/`  
 4. Teste a comunicação entre VLANs e o funcionamento das regras de firewall
